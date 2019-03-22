@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="menuMovies" datatype="html">
+        <source>Films</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/layout/menu/menu.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">Menu item for movies</note>
+        <note priority="1" from="meaning">menu movies</note>
+      </trans-unit>
+      <trans-unit id="menuTheaters" datatype="html">
+        <source>Cinémas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/layout/menu/menu.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">Menu item for theaters</note>
+        <note priority="1" from="meaning">menu theaters</note>
+      </trans-unit>
+      <trans-unit id="menuReservations" datatype="html">
+        <source>Mes résas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/layout/menu/menu.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Menu item for reservations</note>
+        <note priority="1" from="meaning">menu reservations</note>
+      </trans-unit>
+      <trans-unit id="menuAccount" datatype="html">
+        <source>Compte</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/ui/layout/menu/menu.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <note priority="1" from="description">Menu item for account</note>
+        <note priority="1" from="meaning">menu account</note>
+      </trans-unit>
+      <trans-unit id="moviesStarred" datatype="html">
+        <source>Films à la une</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/cinema/pages/movies/movies.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">Starred movies header</note>
+        <note priority="1" from="meaning">starred movies</note>
+      </trans-unit>
+      <trans-unit id="moviesAll" datatype="html">
+        <source>Tous les films</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/cinema/pages/movies/movies.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">All movies header</note>
+        <note priority="1" from="meaning">all movies</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
